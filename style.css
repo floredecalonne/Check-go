@@ -1,0 +1,38 @@
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/navbar.css);
+@import url(components/ligne.css);
+@import url(components/logo.css);
+@import url(components/list.css);
+@import url(components/dropdown.css);
+
+
+
+body{
+	text-align: center;
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+h2{
+	color: white;
+	font-family: mallanna;
+	font-size: 30px;
+}
+
+.title{
+	margin: 70px;
+}
+
+ul li:hover ul{
+	display: block;
+}
+
+#id{
+	background: black;
+}

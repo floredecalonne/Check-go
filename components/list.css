@@ -1,0 +1,20 @@
+ul{
+	list-style: none;
+	font-family: Mallanna;
+	font-size: 20px;
+	font: white;
+
+}
+
+.inline li{
+	display: inline;
+	padding: 30px 30px;
+}
+
+.inline a{
+	color: white;
+
+}
+
+
+
