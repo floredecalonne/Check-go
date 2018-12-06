@@ -33,6 +33,13 @@ ul li:hover ul{
 	display: block;
 }
 
-#id{
-	background: black;
+.footer {
+    position: fixed;
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#C3C7CC;
+    text-align: center;
 }
+
