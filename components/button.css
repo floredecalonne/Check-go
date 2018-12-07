@@ -8,6 +8,11 @@ vertical-align:middle;
 text-align: center; 
 font-family: Rubik;
 font-size: 30px;
+}
 
+
+.boutton:hover {
+	text-decoration: none;
+	color:black;
 
 }

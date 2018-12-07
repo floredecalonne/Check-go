@@ -3,10 +3,18 @@
 	background-color: #E86C60;
 	padding: 10px;
 	display: flex;
-	justify-content: space-between;
 
-	
+	}
+
+.grow { 
+flex-grow: 1; }
+
+.burger {
+	font-size: 30px;
+	color: white;
+	width: : 20px;
+	padding-right: 40px;
+
+
 }
-.my-dropdown{
-	background-color: transparent !important;
-}
+
