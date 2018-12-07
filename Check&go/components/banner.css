@@ -1,0 +1,10 @@
+.banner {
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://kedge.edu/var/kedge/storage/images/media/diaporamas/generique-fr/campus-bordeaux/campus-bordeaux/campus-bordeaux-2_1040x500/108803-1-fre-FR/campus-bordeaux-2_1040x500.jpg");
+	height: calc(100vh - 70px);
+	background-size:cover;
+	display:flex;
+	align-items:center;
+	justify-content:space-around;
+	
+}
+	
